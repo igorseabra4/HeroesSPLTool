@@ -1,9 +1,0 @@
-C:\Users\igor\OneDrive\Documentos\Visual Studio 2017\Projects\HeroesSPLTool\HeroesSPLTool\bin\Release\HeroesSPLTool.exe.config
-C:\Users\igor\OneDrive\Documentos\Visual Studio 2017\Projects\HeroesSPLTool\HeroesSPLTool\bin\Release\HeroesSPLTool.exe
-C:\Users\igor\OneDrive\Documentos\Visual Studio 2017\Projects\HeroesSPLTool\HeroesSPLTool\bin\Release\HeroesSPLTool.pdb
-C:\Users\igor\OneDrive\Documentos\Visual Studio 2017\Projects\HeroesSPLTool\HeroesSPLTool\bin\Release\HeroesSPLTool.xml
-C:\Users\igor\OneDrive\Documentos\Visual Studio 2017\Projects\HeroesSPLTool\HeroesSPLTool\obj\Release\HeroesSPLTool.Resources.resources
-C:\Users\igor\OneDrive\Documentos\Visual Studio 2017\Projects\HeroesSPLTool\HeroesSPLTool\obj\Release\HeroesSPLTool.vbproj.GenerateResource.Cache
-C:\Users\igor\OneDrive\Documentos\Visual Studio 2017\Projects\HeroesSPLTool\HeroesSPLTool\obj\Release\HeroesSPLTool.exe
-C:\Users\igor\OneDrive\Documentos\Visual Studio 2017\Projects\HeroesSPLTool\HeroesSPLTool\obj\Release\HeroesSPLTool.xml
-C:\Users\igor\OneDrive\Documentos\Visual Studio 2017\Projects\HeroesSPLTool\HeroesSPLTool\obj\Release\HeroesSPLTool.pdb
