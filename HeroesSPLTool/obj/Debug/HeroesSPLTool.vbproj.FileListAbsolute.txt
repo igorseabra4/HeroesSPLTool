@@ -1,0 +1,10 @@
+C:\Users\igor\OneDrive\Documentos\Visual Studio 2017\Projects\HeroesSPLTool\HeroesSPLTool\bin\Debug\HeroesSPLTool.exe.config
+C:\Users\igor\OneDrive\Documentos\Visual Studio 2017\Projects\HeroesSPLTool\HeroesSPLTool\bin\Debug\HeroesSPLTool.exe
+C:\Users\igor\OneDrive\Documentos\Visual Studio 2017\Projects\HeroesSPLTool\HeroesSPLTool\bin\Debug\HeroesSPLTool.pdb
+C:\Users\igor\OneDrive\Documentos\Visual Studio 2017\Projects\HeroesSPLTool\HeroesSPLTool\bin\Debug\HeroesSPLTool.xml
+C:\Users\igor\OneDrive\Documentos\Visual Studio 2017\Projects\HeroesSPLTool\HeroesSPLTool\obj\Debug\HeroesSPLTool.vbprojResolveAssemblyReference.cache
+C:\Users\igor\OneDrive\Documentos\Visual Studio 2017\Projects\HeroesSPLTool\HeroesSPLTool\obj\Debug\HeroesSPLTool.Resources.resources
+C:\Users\igor\OneDrive\Documentos\Visual Studio 2017\Projects\HeroesSPLTool\HeroesSPLTool\obj\Debug\HeroesSPLTool.vbproj.GenerateResource.Cache
+C:\Users\igor\OneDrive\Documentos\Visual Studio 2017\Projects\HeroesSPLTool\HeroesSPLTool\obj\Debug\HeroesSPLTool.exe
+C:\Users\igor\OneDrive\Documentos\Visual Studio 2017\Projects\HeroesSPLTool\HeroesSPLTool\obj\Debug\HeroesSPLTool.xml
+C:\Users\igor\OneDrive\Documentos\Visual Studio 2017\Projects\HeroesSPLTool\HeroesSPLTool\obj\Debug\HeroesSPLTool.pdb
